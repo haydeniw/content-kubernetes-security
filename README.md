@@ -2,6 +2,8 @@
 
 ## content-kubernetes-security
 
+Modified for Tufts Comp50 Security Project
+
 This repository is a group of scripts and documents to assist students of Linux Academy in taking the Kubernetes Security Course provided at linuxacademy.com
 
 All scripts and documents in this repository are copyrighted work product of Linux Academy Inc.
